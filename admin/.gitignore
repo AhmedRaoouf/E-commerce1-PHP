@@ -1,0 +1,9 @@
+admin/.browserslistrc
+admin/.travis.yml
+admin/404.php
+scss/
+vendor/
+LICENSE
+new_images/
+*.json
+*.txt
